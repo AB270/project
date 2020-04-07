@@ -2,6 +2,8 @@ var trex,trexRunning,trexCollided;
 var ground,invisibleGround,groundImg;
 var cloud,cloudImg;
 
+//hello 
+
 function preload(){
  trexRunning=loadAnimation("trex1.png","trex3.png",
 "trex4.png");
